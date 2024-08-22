@@ -1,16 +1,33 @@
-## Hi there 👋
+# It's Mirlo!!
 
-<!--
-**krisbgit/krisbgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hi! I'm a **Junior TD Generalist** based in A Coruña, Spain. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Perfectionist and dedicated, I love solving problems
+and discovering new working methods.
+
+Also addicted to **crafting**, specially crochet, ceramics and miniatures.
+
+## Softwares and Languages:
+* Maya
+* Python
+* Qt
+* Substance Designer
+* Blender
+* Unreal Engine
+* HLSL
+* Photoshop
+* Shotgrid
+
+## Places I worked for / worked on:
+* Antaruxa
+* SEK International School
+
+## Studies:
+* Digital Creation, Animation and Videogames - Universidade de A Coruña (2019-2024)
+
+
+## Hey, what’s in the *pipeline*?
+I'm currently working on a **"Marvelous Designer to Maya Workflow"** tool to improve the retopology and pattern merging process.
+
+I also have another **Origami Maya tool** in the oven, based on the mathematical theory from *Robert J. Lang* (I really recommend his book *"Origami Design Secrets"*).
