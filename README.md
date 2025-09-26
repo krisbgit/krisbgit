@@ -27,13 +27,12 @@ Also addicted to **crafting**, specially crochet, ceramics and miniatures.
 
 ## Places I worked for / worked on
 <div align="left">
-  <img src="https://pixel-nexus.com/assets/logo_text_white.DFkRm60G.svg" style="width:140px;height:140px" alt="Pixel-Nexus" title="Currently working at Pixel-Nexus!">
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fantaruxa.com%2Fwp-content%2Fuploads%2Fantaruxa-animation-studio.png&f=1&nofb=1&ipt=dcba29ebd9971bd401d405bc0a3e129264920c79de13208e1b1d78c00f20a9b2&ipo=images" style="width:140px;height:140px" alt="Antaruxa">
+  <a href="https://pixel-nexus.com/"><img src="https://pixel-nexus.com/assets/logo_text_white.DFkRm60G.svg" style="width:140px;height:140px" alt="Pixel-Nexus" title="Currently working at Pixel-Nexus!"></a>
+  <a href="https://antaruxa.com/"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fantaruxa.com%2Fwp-content%2Fuploads%2Fantaruxa-animation-studio.png&f=1&nofb=1&ipt=dcba29ebd9971bd401d405bc0a3e129264920c79de13208e1b1d78c00f20a9b2&ipo=images" style="width:140px;height:140px" alt="Antaruxa"></a>
   </img>
-  <img src="https://github.com/user-attachments/assets/262add4a-c33c-43f9-a7a0-f568fe4623d4" style="width:200px;height:140px" alt="SEK International School"/>
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D388681749934437&f=1&nofb=1&ipt=5789e92e330062b178f8f8f5104bd9a2a3ff8da524bf71dbd9d5d0235b931868&ipo=images" style="width:140px;height:140px" alt="Peanuts&Monkeys"/>
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Favatars.akamai.steamstatic.com%2F48524950ef2954bea279a8d1a3f4e4ec01919082_full.jpg&f=1&nofb=1&ipt=9c44659becdfdff66cd76ad5ec3dd9992b6f1edf1f55130df1503acf97e92e3e&ipo=images" style="width:140px;height:140px" alt="Baroque Decay Games"/>
-
+  <a href="https://eiris.edu.es/"><img src="https://github.com/user-attachments/assets/262add4a-c33c-43f9-a7a0-f568fe4623d4" style="width:200px;height:140px" alt="SEK International School"/></a>
+  <a href="https://www.bapconde.com/"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D388681749934437&f=1&nofb=1&ipt=5789e92e330062b178f8f8f5104bd9a2a3ff8da524bf71dbd9d5d0235b931868&ipo=images" style="width:140px;height:140px" alt="Peanuts&Monkeys"/></a>
+  <a href="https://baroquedecay.com/"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Favatars.akamai.steamstatic.com%2F48524950ef2954bea279a8d1a3f4e4ec01919082_full.jpg&f=1&nofb=1&ipt=9c44659becdfdff66cd76ad5ec3dd9992b6f1edf1f55130df1503acf97e92e3e&ipo=images" style="width:140px;height:140px" alt="Baroque Decay Games"/></a>
 </div>
 
 
