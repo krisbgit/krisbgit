@@ -17,15 +17,17 @@ Also addicted to **crafting**, specially crochet, ceramics and miniatures.
   <img src="https://github.com/user-attachments/assets/704c666c-448e-4675-8a18-6ff52628d9ac" alt="Shotgrid" style="width:75px;height:75px;"/>
   <img src="https://github.com/user-attachments/assets/8b49d9e3-434c-48bd-9448-52d4f0b295c1" alt="Python" style="width:80px;height:80px;"/>
   <img src="https://github.com/user-attachments/assets/1edd2d9b-7ed1-4416-9b52-70ac84cb93be" alt="Qt" style="width:80px;height:80px;"/>
-  <img src="https://github.com/user-attachments/assets/e4306f8b-4b17-4e75-a8c9-04cdc5fc78ed" alt="Substance Designer" style="width:80px;height:80px;"/>
-  <img src="https://github.com/user-attachments/assets/229dc886-9ddb-4d73-8855-602e3bb5ce7e" alt="Blender" style="width:80px;height:70px;"/>
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/godot.png" alt="Godot" style="width:80px;height:80px"/>
   <img src="https://github.com/user-attachments/assets/468fef89-0315-4fa0-8f87-e4ad4865a633" alt="Unreal Engine" style="width:80px;height:80px;"/>
+  <img src="https://github.com/user-attachments/assets/229dc886-9ddb-4d73-8855-602e3bb5ce7e" alt="Blender" style="width:80px;height:70px;"/>
+  <img src="https://github.com/user-attachments/assets/1d47409f-8e8f-4182-b422-629d887e3e3a" alt="Photoshop" style="width:80px;height:80px"/>
+  <img src="https://github.com/user-attachments/assets/e4306f8b-4b17-4e75-a8c9-04cdc5fc78ed" alt="Substance Designer" style="width:80px;height:80px;"/>
   <img src="https://github.com/user-attachments/assets/f28b306b-b967-493c-a732-88f35bd17648" alt="HLSL" style="width:80px;height:80px;"/>
-  <img src="https://github.com/user-attachments/assets/1d47409f-8e8f-4182-b422-629d887e3e3a" alt="Photoshop" style="width:80px;height:80px"/>  
 </div>
 
 ## Places I worked for / worked on
 <div align="left">
+  <img src="https://pixel-nexus.com/assets/logo_text_white.DFkRm60G.svg" style="width:140px;height:140px" alt="Pixel-Nexus" title="Currently working at Pixel-Nexus!">
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fantaruxa.com%2Fwp-content%2Fuploads%2Fantaruxa-animation-studio.png&f=1&nofb=1&ipt=dcba29ebd9971bd401d405bc0a3e129264920c79de13208e1b1d78c00f20a9b2&ipo=images" style="width:140px;height:140px" alt="Antaruxa">
   </img>
   <img src="https://github.com/user-attachments/assets/262add4a-c33c-43f9-a7a0-f568fe4623d4" style="width:200px;height:140px" alt="SEK International School"/>
